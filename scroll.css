@@ -1,0 +1,25 @@
+html{
+  scroll-behavior: smooth;
+  -ms-zoom-animation: ;
+}
+h1 {
+  text-align: center;
+}
+p {
+  font-size: 1rem;
+  width: 80%;
+  margin: 0 auto;
+}
+/* .zoom {
+  zoom: 2;
+  -moz-transform: scale(2);
+  -moz-transform-origin: 0 0;
+} */
+.inp{
+  display: block;
+  text-align: center;
+}
+input{
+  height: 200px;
+  width: 1600px;
+}
